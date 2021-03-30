@@ -1,0 +1,113 @@
+@charset UTF-8
+
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+img {
+    filter: sepia(100%);
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #f8caa4;
+  background-image: linear-gradient(to right, rgba(255, 123, 0, 0.4), rgba(200, 160, 0, 0.1) 11%, rgba(0,0,0,0) 35%, rgba(200, 160, 0, 0.1) 65%);
+  box-shadow: inset 0 0 75px rgba(255, 145, 0, 0.3), inset 0 0 20px rgba(191, 150, 115), inset 0 0 30px rgba(191, 148, 96);
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+    opacity: 0.9;
+}
+
+h1{
+    color: #0D0D0D;
+    text-align: center;
+    margin: 0;
+    font-size: 400%;
+
+}
+div#fieldset-linha{
+display: flex;
+justify-content: space-between;
+}
+fieldset {
+    font-family: 'Kiwi Maru', serif;
+    font-weight: 100;
+}
+#subtitulo{
+    color: #0D0D0D;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 100;
+}
+#fieldset1{
+    border:  1px solid #262626;
+    width: 15%;
+}
+#fieldset2{
+    border: 1px solid #262626;
+    width: 15%;
+    height:fit-content;
+}
+#fieldset3{
+    border: 1px solid #262626;
+    width: 15%;
+    color: black;
+    height: fit-content;
+}
+#fieldset4 {
+    height: fit-content;
+    border: 1px solid #262626;
+    text-align: justify;
+    
+}
+#fieldset5{
+    border: 1px solid #262626;
+    height: fit-content;
+}
+#h31{
+    font-family: 'Kiwi Maru', serif;
+    text-align: center;
+    font-size: 200%;
+}
+#h32{
+    font-family: 'Kiwi Maru', serif;
+    text-align: end;
+}
+#imagem2{
+    width: 80%;
+
+}
+#imagem3{
+    width: 80%;
+}
+hr{
+    border: 1px solid #262626;
+}
+
+div.fieldset-2-3-linha{
+    display: flex;
+}
+#h33{
+    font-family: 'Kiwi Maru', serif;
+    text-align: center;
+}
+#fim{
+    font-family: 'Kiwi Maru', serif;
+    font-size: 100%;
+}
+#fieldset6{
+    border: 1px solid #262626;
+}
+#fieldset7{
+    border: 1px solid #262626;
+}
+fieldset{
+    border: 1px solid #262626;
+}
+h3{
+    font-size: 70%;
+}
